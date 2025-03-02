@@ -1,5 +1,6 @@
 # DeepProp - DNA Promoter Prediction with Deep Learning
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 
 A CNN-BiLSTM hybrid deep learning model for predicting core DNA promoters, trained on biological datasets from Hugging Face.
@@ -100,6 +101,9 @@ DeepProp/
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📜 License
+
+Distributed under the MIT License. See (`LICENSE`) for details.
 
 ## 📧 Acknowledgments
 
@@ -114,3 +118,4 @@ This README includes:
 3. Interactive architecture diagram (requires Mermaid support)
 4. Structured performance reporting
 5. Complete development workflow guidance
+6. Standardized open-source licensing
