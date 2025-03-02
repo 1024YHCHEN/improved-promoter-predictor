@@ -1,6 +1,5 @@
 # DeepProp - DNA Promoter Prediction with Deep Learning
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 
 A CNN-BiLSTM hybrid deep learning model for predicting core DNA promoters, trained on biological datasets from Hugging Face.
