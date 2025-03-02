@@ -100,9 +100,6 @@ DeepProp/
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for details.
 
 ## 📧 Acknowledgments
 
@@ -117,10 +114,3 @@ This README includes:
 3. Interactive architecture diagram (requires Mermaid support)
 4. Structured performance reporting
 5. Complete development workflow guidance
-6. Standardized open-source licensing
-
-Recommended enhancements:
-1. Add `requirements.txt`
-2. Include LICENSE file
-3. Create `examples/` directory for use cases
-4. Configure CI/CD pipelines
